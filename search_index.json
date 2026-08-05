@@ -1,0 +1,19 @@
+[
+  {
+    "date": "2026-08-05",
+    "day_num": 217,
+    "file_path": "output/2026-08-05.md",
+    "topics": {
+      "Python": "Functional Programming with functools.reduce and partial (Day 217)",
+      "SQL": "Materialized Views & Incremental Refresh Pipelines (Day 217)",
+      "Cybersecurity": "Static Application Security Testing (SAST) Integration in CI/CD (Day 217)",
+      "Data Analysis": "Handling Imbalanced Datasets with SMOTE and Class Weights (Day 217)",
+      "Linux": "Cgroups v2 and Resource Quota Allocation for Processes (Day 217)",
+      "Git": "Signing Commits with GPG / SSH Keys for Provenance (Day 217)",
+      "Networking": "gRPC vs REST API Performance over HTTP/2 (Day 217)",
+      "Docker": "Dockerfile Best Practices: Distroless Base Images (Day 217)",
+      "Machine Learning": "Autoencoders & Variational Latent Space Regularization (Day 217)",
+      "Interview Questions": "How do you handle Deadlocks in distributed database systems? (Day 217)"
+    }
+  }
+]
