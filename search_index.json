@@ -219,5 +219,22 @@
       "Machine Learning": "Reinforcement Learning with Proximal Policy Optimization (PPO) (Day 229)",
       "Interview Questions": "What is the difference between Hard Links and Soft (Symbolic) Links in Linux file systems? (Day 229)"
     }
+  },
+  {
+    "date": "2026-08-18",
+    "day_num": 230,
+    "file_path": "output/2026-08-18.md",
+    "topics": {
+      "Python": "AST Parsing & Dynamic Code Analysis (Day 230)",
+      "SQL": "Pivot & Unpivot Data Transformation Queries (Day 230)",
+      "Cybersecurity": "Container Hardening & Rootless Docker Security (Day 230)",
+      "Data Analysis": "Streaming Data Aggregation with Apache Arrow PyArrow (Day 230)",
+      "Linux": "Analyzing System Logs with journalctl and logrotate (Day 230)",
+      "Git": "Pruning Stale Remote Tracking Branches with `git fetch --prune` (Day 230)",
+      "Networking": "IPsec VPN Tunneling & Encapsulating Security Payload (ESP) (Day 230)",
+      "Docker": "Docker Init Systems (`tini`) & Zombie Process Harvesting (Day 230)",
+      "Machine Learning": "MLOps Model Lineage Tracking & Registry with MLflow (Day 230)",
+      "Interview Questions": "How do you debug a memory leak in a production Python asynchronous service? (Day 230)"
+    }
   }
 ]
