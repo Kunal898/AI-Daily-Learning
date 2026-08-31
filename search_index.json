@@ -440,5 +440,22 @@
       "Machine Learning": "Low-Rank Adaptation (LoRA) for Fine-Tuning LLMs (Day 242)",
       "Interview Questions": "Explain database connection pooling and how to prevent connection exhaustion. (Day 242)"
     }
+  },
+  {
+    "date": "2026-08-31",
+    "day_num": 243,
+    "file_path": "output/2026-08-31.md",
+    "topics": {
+      "Python": "Descriptor Protocol and Property Implementation (Day 243)",
+      "SQL": "ACID Compliance & Isolation Levels (READ COMMITTED vs SERIALIZABLE) (Day 243)",
+      "Cybersecurity": "OWASP Top 10: Server-Side Request Forgery (SSRF) Hardening (Day 243)",
+      "Data Analysis": "Time-Series Forecasting & Exponential Smoothing (Day 243)",
+      "Linux": "SSH Tunneling, Port Forwarding, and Dynamic SOCKS Proxies (Day 243)",
+      "Git": "Custom Client-Side Hooks & Pre-commit Enforcement (Day 243)",
+      "Networking": "HTTP/2 Multiplexing vs HTTP/3 QUIC (UDP Transport) (Day 243)",
+      "Docker": "Optimizing Layer Cache using BuildKit Cache Mounts (`--mount=type=cache`) (Day 243)",
+      "Machine Learning": "Quantization Aware Training (QAT) vs Post-Training Quantization (PTQ) (Day 243)",
+      "Interview Questions": "How does Garbage Collection operate in Python vs Java vs Go? (Day 243)"
+    }
   }
 ]
