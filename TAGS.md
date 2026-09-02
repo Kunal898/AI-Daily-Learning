@@ -31,6 +31,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [AES-256-GCM Authenticated Encryption vs Cipher Block Chaining (CBC) (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [OWASP Top 10: Server-Side Request Forgery (SSRF) Hardening (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Content Security Policy (CSP) Level 3 Implementation & Nonce Usage (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Privilege Escalation Vectors in Linux SUID Binaries (Day 245)](output/2026-09-02.md)
 
 ## Data Analysis
 - **Day 217** (`2026-08-05`): [Handling Imbalanced Datasets with SMOTE and Class Weights (Day 217)](output/2026-08-05.md)
@@ -61,6 +62,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Automated Data Quality Auditing with Great Expectations (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [Time-Series Forecasting & Exponential Smoothing (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Outlier Detection via Isolation Forests and Z-score Analysis (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Dimensionality Reduction using UMAP and PCA (Day 245)](output/2026-09-02.md)
 
 ## Docker
 - **Day 217** (`2026-08-05`): [Dockerfile Best Practices: Distroless Base Images (Day 217)](output/2026-08-05.md)
@@ -91,6 +93,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Container Rootless Execution Mode & User Namespaces (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [Optimizing Layer Cache using BuildKit Cache Mounts (`--mount=type=cache`) (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Container Storage Drivers (Overlay2) & Volume Performance Tuning (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Docker Overlay Networks & Macvlan Networking Deep Dive (Day 245)](output/2026-09-02.md)
 
 ## Git
 - **Day 217** (`2026-08-05`): [Signing Commits with GPG / SSH Keys for Provenance (Day 217)](output/2026-08-05.md)
@@ -121,6 +124,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Binary Search Bug Hunting with `git bisect run` (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [Custom Client-Side Hooks & Pre-commit Enforcement (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Git Submodules vs Git Subtree for Monorepos (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Cherry-Picking Commits across Divergent Branches (Day 245)](output/2026-09-02.md)
 
 ## Interview Questions
 - **Day 217** (`2026-08-05`): [How do you handle Deadlocks in distributed database systems? (Day 217)](output/2026-08-05.md)
@@ -151,6 +155,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Explain database connection pooling and how to prevent connection exhaustion. (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [How does Garbage Collection operate in Python vs Java vs Go? (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Design a URL Shortener Service (e.g., TinyURL) with Base62 Encoding. (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Explain the CAP Theorem and PACELC extension with real-world database examples. (Day 245)](output/2026-09-02.md)
 
 ## Linux
 - **Day 217** (`2026-08-05`): [Cgroups v2 and Resource Quota Allocation for Processes (Day 217)](output/2026-08-05.md)
@@ -181,6 +186,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Writing Systemd Service Units with Auto-Restart & Resource Limits (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [SSH Tunneling, Port Forwarding, and Dynamic SOCKS Proxies (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [File Access Control Lists (FACL) with setfacl and getfacl (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Network Packet Sniffing with tcpdump and TShark Filters (Day 245)](output/2026-09-02.md)
 
 ## Machine Learning
 - **Day 217** (`2026-08-05`): [Autoencoders & Variational Latent Space Regularization (Day 217)](output/2026-08-05.md)
@@ -211,6 +217,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Low-Rank Adaptation (LoRA) for Fine-Tuning LLMs (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [Quantization Aware Training (QAT) vs Post-Training Quantization (PTQ) (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Gradient Boosting Decision Trees (LightGBM vs XGBoost vs CatBoost) (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Kernel Methods & Support Vector Machines (SVM) Dual Formulation (Day 245)](output/2026-09-02.md)
 
 ## Networking
 - **Day 217** (`2026-08-05`): [gRPC vs REST API Performance over HTTP/2 (Day 217)](output/2026-08-05.md)
@@ -241,6 +248,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [DNS Resolution Flow: Recursive Resolver vs Authoritative Nameservers (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [HTTP/2 Multiplexing vs HTTP/3 QUIC (UDP Transport) (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [CIDR Subnetting & IP Route Calculation in Python (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [BGP Anycast Routing & Autonomous Systems (AS) (Day 245)](output/2026-09-02.md)
 
 ## Python
 - **Day 217** (`2026-08-05`): [Functional Programming with functools.reduce and partial (Day 217)](output/2026-08-05.md)
@@ -271,6 +279,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Memory Optimization with __slots__ (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [Descriptor Protocol and Property Implementation (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Weak References & Memory Leak Prevention (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [Cython and C-Extension Binding Mechanics (Day 245)](output/2026-09-02.md)
 
 ## SQL
 - **Day 217** (`2026-08-05`): [Materialized Views & Incremental Refresh Pipelines (Day 217)](output/2026-08-05.md)
@@ -301,4 +310,5 @@ Browse daily lessons filtered by technical domain.
 - **Day 242** (`2026-08-30`): [Query Execution Plan Analysis using EXPLAIN ANALYZE (Day 242)](output/2026-08-30.md)
 - **Day 243** (`2026-08-31`): [ACID Compliance & Isolation Levels (READ COMMITTED vs SERIALIZABLE) (Day 243)](output/2026-08-31.md)
 - **Day 244** (`2026-09-01`): [Partitioning Strategies: Range vs List vs Hash Partitioning (Day 244)](output/2026-09-01.md)
+- **Day 245** (`2026-09-02`): [JSONB Inverted Indexing & Querying in PostgreSQL (Day 245)](output/2026-09-02.md)
 
