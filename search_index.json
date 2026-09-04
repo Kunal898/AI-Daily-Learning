@@ -508,5 +508,22 @@
       "Machine Learning": "Convolutional Neural Network Architectures (ResNet Residual Connections) (Day 246)",
       "Interview Questions": "What happens step-by-step when you type `https://google.com` into your browser address bar? (Day 246)"
     }
+  },
+  {
+    "date": "2026-09-04",
+    "day_num": 247,
+    "file_path": "output/2026-09-04.md",
+    "topics": {
+      "Python": "Functional Programming with functools.reduce and partial (Day 247)",
+      "SQL": "Materialized Views & Incremental Refresh Pipelines (Day 247)",
+      "Cybersecurity": "Static Application Security Testing (SAST) Integration in CI/CD (Day 247)",
+      "Data Analysis": "Handling Imbalanced Datasets with SMOTE and Class Weights (Day 247)",
+      "Linux": "Cgroups v2 and Resource Quota Allocation for Processes (Day 247)",
+      "Git": "Signing Commits with GPG / SSH Keys for Provenance (Day 247)",
+      "Networking": "gRPC vs REST API Performance over HTTP/2 (Day 247)",
+      "Docker": "Dockerfile Best Practices: Distroless Base Images (Day 247)",
+      "Machine Learning": "Autoencoders & Variational Latent Space Regularization (Day 247)",
+      "Interview Questions": "How do you handle Deadlocks in distributed database systems? (Day 247)"
+    }
   }
 ]
