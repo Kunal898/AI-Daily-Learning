@@ -797,5 +797,22 @@
       "Machine Learning": "Quantization Aware Training (QAT) vs Post-Training Quantization (PTQ) (Day 263)",
       "Interview Questions": "How does Garbage Collection operate in Python vs Java vs Go? (Day 263)"
     }
+  },
+  {
+    "date": "2026-09-21",
+    "day_num": 264,
+    "file_path": "output/2026-09-21.md",
+    "topics": {
+      "Python": "Weak References & Memory Leak Prevention (Day 264)",
+      "SQL": "Partitioning Strategies: Range vs List vs Hash Partitioning (Day 264)",
+      "Cybersecurity": "Content Security Policy (CSP) Level 3 Implementation & Nonce Usage (Day 264)",
+      "Data Analysis": "Outlier Detection via Isolation Forests and Z-score Analysis (Day 264)",
+      "Linux": "File Access Control Lists (FACL) with setfacl and getfacl (Day 264)",
+      "Git": "Git Submodules vs Git Subtree for Monorepos (Day 264)",
+      "Networking": "CIDR Subnetting & IP Route Calculation in Python (Day 264)",
+      "Docker": "Container Storage Drivers (Overlay2) & Volume Performance Tuning (Day 264)",
+      "Machine Learning": "Gradient Boosting Decision Trees (LightGBM vs XGBoost vs CatBoost) (Day 264)",
+      "Interview Questions": "Design a URL Shortener Service (e.g., TinyURL) with Base62 Encoding. (Day 264)"
+    }
   }
 ]
