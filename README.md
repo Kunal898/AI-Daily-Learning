@@ -5,35 +5,35 @@
 <!-- STATS:START -->
 ### 📊 Live Learning Statistics
 
-![Total Lessons](https://img.shields.io/badge/Total_Lessons-51-blue?style=for-the-badge&logo=book)
-![Progress](https://img.shields.io/badge/Progress-13.97%25-brightgreen?style=for-the-badge&logo=github)
-![Total Words](https://img.shields.io/badge/Words_Generated-80470-purple?style=for-the-badge)
+![Total Lessons](https://img.shields.io/badge/Total_Lessons-52-blue?style=for-the-badge&logo=book)
+![Progress](https://img.shields.io/badge/Progress-14.25%25-brightgreen?style=for-the-badge&logo=github)
+![Total Words](https://img.shields.io/badge/Words_Generated-82064-purple?style=for-the-badge)
 
-**Curriculum Progress:** `[██░░░░░░░░░░░░░░░░░░] 13.97%` (Target: 365 Days)
+**Curriculum Progress:** `[██░░░░░░░░░░░░░░░░░░] 14.25%` (Target: 365 Days)
 
 | Metric | Value |
 | --- | --- |
-| 📚 **Total Lessons** | `51` / 365 |
-| 📅 **Latest Lesson** | [2026-09-24](output/2026-09-24.md) |
-| 📝 **Total Words Written** | `80,470` words |
-| 🎯 **Progress Percentage** | `13.97%` |
+| 📚 **Total Lessons** | `52` / 365 |
+| 📅 **Latest Lesson** | [2026-09-25](output/2026-09-25.md) |
+| 📝 **Total Words Written** | `82,064` words |
+| 🎯 **Progress Percentage** | `14.25%` |
 | 🌐 **Domains Covered** | `11 Core Tech Domains` |
 
 #### 📂 Domain Module Breakdown
 | Technical Domain | Lessons Generated | Status |
 | --- | --- | --- |
-| Python | `51` lessons | 🟢 Active |
-| SQL | `51` lessons | 🟢 Active |
-| Cybersecurity | `51` lessons | 🟢 Active |
-| Data Analysis | `51` lessons | 🟢 Active |
-| Linux | `51` lessons | 🟢 Active |
-| Git | `51` lessons | 🟢 Active |
-| Networking | `51` lessons | 🟢 Active |
-| Docker | `51` lessons | 🟢 Active |
-| Machine Learning | `51` lessons | 🟢 Active |
-| Coding Challenge | `51` lessons | 🟢 Active |
-| Interview Questions | `51` lessons | 🟢 Active |
-| Quiz | `51` lessons | 🟢 Active |
+| Python | `52` lessons | 🟢 Active |
+| SQL | `52` lessons | 🟢 Active |
+| Cybersecurity | `52` lessons | 🟢 Active |
+| Data Analysis | `52` lessons | 🟢 Active |
+| Linux | `52` lessons | 🟢 Active |
+| Git | `52` lessons | 🟢 Active |
+| Networking | `52` lessons | 🟢 Active |
+| Docker | `52` lessons | 🟢 Active |
+| Machine Learning | `52` lessons | 🟢 Active |
+| Coding Challenge | `52` lessons | 🟢 Active |
+| Interview Questions | `52` lessons | 🟢 Active |
+| Quiz | `52` lessons | 🟢 Active |
 <!-- STATS:END -->
 
 ## 🎯 Repository Overview
