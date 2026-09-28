@@ -916,5 +916,22 @@
       "Machine Learning": "MLOps Model Lineage Tracking & Registry with MLflow (Day 270)",
       "Interview Questions": "How do you debug a memory leak in a production Python asynchronous service? (Day 270)"
     }
+  },
+  {
+    "date": "2026-09-28",
+    "day_num": 271,
+    "file_path": "output/2026-09-28.md",
+    "topics": {
+      "Python": "Concurrency with asyncio.TaskGroup (Day 271)",
+      "SQL": "B-Tree vs Generalized Inverted Index (GIN) Performance Tuning (Day 271)",
+      "Cybersecurity": "Zero Trust Architecture & Micro-segmentation Principles (Day 271)",
+      "Data Analysis": "Vectorized Calculations with NumPy Broadcasting (Day 271)",
+      "Linux": "Mastering AWK Text Processing & Column Aggregations (Day 271)",
+      "Git": "Interactive Rebase (`git rebase -i`) Masterclass (Day 271)",
+      "Networking": "TCP 3-Way Handshake & SYN Flood Attack Mitigation (Day 271)",
+      "Docker": "Docker Compose v2 Environment Files & Secret Injection (Day 271)",
+      "Machine Learning": "AdamW Optimizer with Decoupled Weight Decay Mechanics (Day 271)",
+      "Interview Questions": "What is the difference between Process and Thread context switching overhead? (Day 271)"
+    }
   }
 ]
