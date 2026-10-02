@@ -984,5 +984,22 @@
       "Machine Learning": "Gradient Boosting Decision Trees (LightGBM vs XGBoost vs CatBoost) (Day 274)",
       "Interview Questions": "Design a URL Shortener Service (e.g., TinyURL) with Base62 Encoding. (Day 274)"
     }
+  },
+  {
+    "date": "2026-10-02",
+    "day_num": 275,
+    "file_path": "output/2026-10-02.md",
+    "topics": {
+      "Python": "Cython and C-Extension Binding Mechanics (Day 275)",
+      "SQL": "JSONB Inverted Indexing & Querying in PostgreSQL (Day 275)",
+      "Cybersecurity": "Privilege Escalation Vectors in Linux SUID Binaries (Day 275)",
+      "Data Analysis": "Dimensionality Reduction using UMAP and PCA (Day 275)",
+      "Linux": "Network Packet Sniffing with tcpdump and TShark Filters (Day 275)",
+      "Git": "Cherry-Picking Commits across Divergent Branches (Day 275)",
+      "Networking": "BGP Anycast Routing & Autonomous Systems (AS) (Day 275)",
+      "Docker": "Docker Overlay Networks & Macvlan Networking Deep Dive (Day 275)",
+      "Machine Learning": "Kernel Methods & Support Vector Machines (SVM) Dual Formulation (Day 275)",
+      "Interview Questions": "Explain the CAP Theorem and PACELC extension with real-world database examples. (Day 275)"
+    }
   }
 ]
