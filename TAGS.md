@@ -66,6 +66,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Static Application Security Testing (SAST) Integration in CI/CD (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [DNS Over HTTPS (DoH) & TLS Fingerprinting (JA3/JA4) (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [SQL Injection Mitigation using Parameterized Statements (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [Container Hardening & Rootless Docker Security (Day 280)](output/2026-10-07.md)
 
 ## Data Analysis
 - **Day 217** (`2026-08-05`): [Handling Imbalanced Datasets with SMOTE and Class Weights (Day 217)](output/2026-08-05.md)
@@ -131,6 +132,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Handling Imbalanced Datasets with SMOTE and Class Weights (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Exploratory Data Analysis Automation & Profiling Pipelines (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [Correlation Heatmaps & Feature Selection via Mutual Information (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [Streaming Data Aggregation with Apache Arrow PyArrow (Day 280)](output/2026-10-07.md)
 
 ## Docker
 - **Day 217** (`2026-08-05`): [Dockerfile Best Practices: Distroless Base Images (Day 217)](output/2026-08-05.md)
@@ -196,6 +198,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Dockerfile Best Practices: Distroless Base Images (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Container Resource Quotas (CPU Shares & Memory OOM Kill Control) (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [Building Multi-Platform Images with Docker Buildx & QEMU (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [Docker Init Systems (`tini`) & Zombie Process Harvesting (Day 280)](output/2026-10-07.md)
 
 ## Git
 - **Day 217** (`2026-08-05`): [Signing Commits with GPG / SSH Keys for Provenance (Day 217)](output/2026-08-05.md)
@@ -261,6 +264,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Signing Commits with GPG / SSH Keys for Provenance (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Managing Large Binaries using Git LFS (Large File Storage) (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [Resolving Complex Merge Conflicts with 3-Way Merge (`diff3`) (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [Pruning Stale Remote Tracking Branches with `git fetch --prune` (Day 280)](output/2026-10-07.md)
 
 ## Interview Questions
 - **Day 217** (`2026-08-05`): [How do you handle Deadlocks in distributed database systems? (Day 217)](output/2026-08-05.md)
@@ -326,6 +330,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [How do you handle Deadlocks in distributed database systems? (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Explain Microservices Saga Pattern (Choreography vs Orchestration) for distributed transactions. (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [What is the difference between Hard Links and Soft (Symbolic) Links in Linux file systems? (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [How do you debug a memory leak in a production Python asynchronous service? (Day 280)](output/2026-10-07.md)
 
 ## Linux
 - **Day 217** (`2026-08-05`): [Cgroups v2 and Resource Quota Allocation for Processes (Day 217)](output/2026-08-05.md)
@@ -391,6 +396,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Cgroups v2 and Resource Quota Allocation for Processes (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Managing Disk Storage with LVM (Logical Volume Manager) (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [Automating Backup Pipelines with rsync, tar, and gpg (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [Analyzing System Logs with journalctl and logrotate (Day 280)](output/2026-10-07.md)
 
 ## Machine Learning
 - **Day 217** (`2026-08-05`): [Autoencoders & Variational Latent Space Regularization (Day 217)](output/2026-08-05.md)
@@ -456,6 +462,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Autoencoders & Variational Latent Space Regularization (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Evaluating Classification Models: ROC-AUC, PR-AUC, and F1-Score (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [Reinforcement Learning with Proximal Policy Optimization (PPO) (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [MLOps Model Lineage Tracking & Registry with MLflow (Day 280)](output/2026-10-07.md)
 
 ## Networking
 - **Day 217** (`2026-08-05`): [gRPC vs REST API Performance over HTTP/2 (Day 217)](output/2026-08-05.md)
@@ -521,6 +528,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [gRPC vs REST API Performance over HTTP/2 (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Network Address Translation (NAT) & STUN/TURN Protocols (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [eBPF (Extended Berkeley Packet Filter) Kernel Packet Inspection (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [IPsec VPN Tunneling & Encapsulating Security Payload (ESP) (Day 280)](output/2026-10-07.md)
 
 ## Python
 - **Day 217** (`2026-08-05`): [Functional Programming with functools.reduce and partial (Day 217)](output/2026-08-05.md)
@@ -586,6 +594,7 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Functional Programming with functools.reduce and partial (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Custom Sequence Protocol & Slicing (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [GIL Workarounds using Multiprocessing Pools (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [AST Parsing & Dynamic Code Analysis (Day 280)](output/2026-10-07.md)
 
 ## SQL
 - **Day 217** (`2026-08-05`): [Materialized Views & Incremental Refresh Pipelines (Day 217)](output/2026-08-05.md)
@@ -651,4 +660,5 @@ Browse daily lessons filtered by technical domain.
 - **Day 277** (`2026-10-04`): [Materialized Views & Incremental Refresh Pipelines (Day 277)](output/2026-10-04.md)
 - **Day 278** (`2026-10-05`): [Upsert Patterns using ON CONFLICT DO UPDATE (Day 278)](output/2026-10-05.md)
 - **Day 279** (`2026-10-06`): [Database Transactions & Savepoints Management (Day 279)](output/2026-10-06.md)
+- **Day 280** (`2026-10-07`): [Pivot & Unpivot Data Transformation Queries (Day 280)](output/2026-10-07.md)
 
