@@ -1171,5 +1171,22 @@
       "Machine Learning": "Kernel Methods & Support Vector Machines (SVM) Dual Formulation (Day 285)",
       "Interview Questions": "Explain the CAP Theorem and PACELC extension with real-world database examples. (Day 285)"
     }
+  },
+  {
+    "date": "2026-10-13",
+    "day_num": 286,
+    "file_path": "output/2026-10-13.md",
+    "topics": {
+      "Python": "Subprocess Pipelines and Non-blocking I/O (Day 286)",
+      "SQL": "Optimizing Lateral Joins for Correlated Subqueries (Day 286)",
+      "Cybersecurity": "OAuth 2.1 PKCE Flow for Single Page Applications (SPAs) (Day 286)",
+      "Data Analysis": "Pandas Category Types & Memory Footprint Optimization (Day 286)",
+      "Linux": "Linux Kernel Parameter Tuning via sysctl.conf (Day 286)",
+      "Git": "Configuring Advanced Aliases and Custom Git Subcommands (Day 286)",
+      "Networking": "WebSocket Protocol Handshake & Frame Decoding (Day 286)",
+      "Docker": "Securing Containers with Seccomp Profiles and AppArmor (Day 286)",
+      "Machine Learning": "Convolutional Neural Network Architectures (ResNet Residual Connections) (Day 286)",
+      "Interview Questions": "What happens step-by-step when you type `https://google.com` into your browser address bar? (Day 286)"
+    }
   }
 ]
