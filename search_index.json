@@ -1392,5 +1392,22 @@
       "Machine Learning": "Evaluating Classification Models: ROC-AUC, PR-AUC, and F1-Score (Day 298)",
       "Interview Questions": "Explain Microservices Saga Pattern (Choreography vs Orchestration) for distributed transactions. (Day 298)"
     }
+  },
+  {
+    "date": "2026-10-26",
+    "day_num": 299,
+    "file_path": "output/2026-10-26.md",
+    "topics": {
+      "Python": "GIL Workarounds using Multiprocessing Pools (Day 299)",
+      "SQL": "Database Transactions & Savepoints Management (Day 299)",
+      "Cybersecurity": "SQL Injection Mitigation using Parameterized Statements (Day 299)",
+      "Data Analysis": "Correlation Heatmaps & Feature Selection via Mutual Information (Day 299)",
+      "Linux": "Automating Backup Pipelines with rsync, tar, and gpg (Day 299)",
+      "Git": "Resolving Complex Merge Conflicts with 3-Way Merge (`diff3`) (Day 299)",
+      "Networking": "eBPF (Extended Berkeley Packet Filter) Kernel Packet Inspection (Day 299)",
+      "Docker": "Building Multi-Platform Images with Docker Buildx & QEMU (Day 299)",
+      "Machine Learning": "Reinforcement Learning with Proximal Policy Optimization (PPO) (Day 299)",
+      "Interview Questions": "What is the difference between Hard Links and Soft (Symbolic) Links in Linux file systems? (Day 299)"
+    }
   }
 ]
