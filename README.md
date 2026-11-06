@@ -5,35 +5,35 @@
 <!-- STATS:START -->
 ### 📊 Live Learning Statistics
 
-![Total Lessons](https://img.shields.io/badge/Total_Lessons-93-blue?style=for-the-badge&logo=book)
-![Progress](https://img.shields.io/badge/Progress-25.48%25-brightgreen?style=for-the-badge&logo=github)
-![Total Words](https://img.shields.io/badge/Words_Generated-146773-purple?style=for-the-badge)
+![Total Lessons](https://img.shields.io/badge/Total_Lessons-94-blue?style=for-the-badge&logo=book)
+![Progress](https://img.shields.io/badge/Progress-25.75%25-brightgreen?style=for-the-badge&logo=github)
+![Total Words](https://img.shields.io/badge/Words_Generated-148363-purple?style=for-the-badge)
 
-**Curriculum Progress:** `[█████░░░░░░░░░░░░░░░] 25.48%` (Target: 365 Days)
+**Curriculum Progress:** `[█████░░░░░░░░░░░░░░░] 25.75%` (Target: 365 Days)
 
 | Metric | Value |
 | --- | --- |
-| 📚 **Total Lessons** | `93` / 365 |
-| 📅 **Latest Lesson** | [2026-11-05](output/2026-11-05.md) |
-| 📝 **Total Words Written** | `146,773` words |
-| 🎯 **Progress Percentage** | `25.48%` |
+| 📚 **Total Lessons** | `94` / 365 |
+| 📅 **Latest Lesson** | [2026-11-06](output/2026-11-06.md) |
+| 📝 **Total Words Written** | `148,363` words |
+| 🎯 **Progress Percentage** | `25.75%` |
 | 🌐 **Domains Covered** | `11 Core Tech Domains` |
 
 #### 📂 Domain Module Breakdown
 | Technical Domain | Lessons Generated | Status |
 | --- | --- | --- |
-| Python | `93` lessons | 🟢 Active |
-| SQL | `93` lessons | 🟢 Active |
-| Cybersecurity | `93` lessons | 🟢 Active |
-| Data Analysis | `93` lessons | 🟢 Active |
-| Linux | `93` lessons | 🟢 Active |
-| Git | `93` lessons | 🟢 Active |
-| Networking | `93` lessons | 🟢 Active |
-| Docker | `93` lessons | 🟢 Active |
-| Machine Learning | `93` lessons | 🟢 Active |
-| Coding Challenge | `93` lessons | 🟢 Active |
-| Interview Questions | `93` lessons | 🟢 Active |
-| Quiz | `93` lessons | 🟢 Active |
+| Python | `94` lessons | 🟢 Active |
+| SQL | `94` lessons | 🟢 Active |
+| Cybersecurity | `94` lessons | 🟢 Active |
+| Data Analysis | `94` lessons | 🟢 Active |
+| Linux | `94` lessons | 🟢 Active |
+| Git | `94` lessons | 🟢 Active |
+| Networking | `94` lessons | 🟢 Active |
+| Docker | `94` lessons | 🟢 Active |
+| Machine Learning | `94` lessons | 🟢 Active |
+| Coding Challenge | `94` lessons | 🟢 Active |
+| Interview Questions | `94` lessons | 🟢 Active |
+| Quiz | `94` lessons | 🟢 Active |
 <!-- STATS:END -->
 
 ## 🎯 Repository Overview
