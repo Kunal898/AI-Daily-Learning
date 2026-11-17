@@ -5,35 +5,35 @@
 <!-- STATS:START -->
 ### 📊 Live Learning Statistics
 
-![Total Lessons](https://img.shields.io/badge/Total_Lessons-104-blue?style=for-the-badge&logo=book)
-![Progress](https://img.shields.io/badge/Progress-28.49%25-brightgreen?style=for-the-badge&logo=github)
-![Total Words](https://img.shields.io/badge/Words_Generated-164144-purple?style=for-the-badge)
+![Total Lessons](https://img.shields.io/badge/Total_Lessons-105-blue?style=for-the-badge&logo=book)
+![Progress](https://img.shields.io/badge/Progress-28.77%25-brightgreen?style=for-the-badge&logo=github)
+![Total Words](https://img.shields.io/badge/Words_Generated-165685-purple?style=for-the-badge)
 
-**Curriculum Progress:** `[█████░░░░░░░░░░░░░░░] 28.49%` (Target: 365 Days)
+**Curriculum Progress:** `[█████░░░░░░░░░░░░░░░] 28.77%` (Target: 365 Days)
 
 | Metric | Value |
 | --- | --- |
-| 📚 **Total Lessons** | `104` / 365 |
-| 📅 **Latest Lesson** | [2026-11-16](output/2026-11-16.md) |
-| 📝 **Total Words Written** | `164,144` words |
-| 🎯 **Progress Percentage** | `28.49%` |
+| 📚 **Total Lessons** | `105` / 365 |
+| 📅 **Latest Lesson** | [2026-11-17](output/2026-11-17.md) |
+| 📝 **Total Words Written** | `165,685` words |
+| 🎯 **Progress Percentage** | `28.77%` |
 | 🌐 **Domains Covered** | `11 Core Tech Domains` |
 
 #### 📂 Domain Module Breakdown
 | Technical Domain | Lessons Generated | Status |
 | --- | --- | --- |
-| Python | `104` lessons | 🟢 Active |
-| SQL | `104` lessons | 🟢 Active |
-| Cybersecurity | `104` lessons | 🟢 Active |
-| Data Analysis | `104` lessons | 🟢 Active |
-| Linux | `104` lessons | 🟢 Active |
-| Git | `104` lessons | 🟢 Active |
-| Networking | `104` lessons | 🟢 Active |
-| Docker | `104` lessons | 🟢 Active |
-| Machine Learning | `104` lessons | 🟢 Active |
-| Coding Challenge | `104` lessons | 🟢 Active |
-| Interview Questions | `104` lessons | 🟢 Active |
-| Quiz | `104` lessons | 🟢 Active |
+| Python | `105` lessons | 🟢 Active |
+| SQL | `105` lessons | 🟢 Active |
+| Cybersecurity | `105` lessons | 🟢 Active |
+| Data Analysis | `105` lessons | 🟢 Active |
+| Linux | `105` lessons | 🟢 Active |
+| Git | `105` lessons | 🟢 Active |
+| Networking | `105` lessons | 🟢 Active |
+| Docker | `105` lessons | 🟢 Active |
+| Machine Learning | `105` lessons | 🟢 Active |
+| Coding Challenge | `105` lessons | 🟢 Active |
+| Interview Questions | `105` lessons | 🟢 Active |
+| Quiz | `105` lessons | 🟢 Active |
 <!-- STATS:END -->
 
 ## 🎯 Repository Overview
