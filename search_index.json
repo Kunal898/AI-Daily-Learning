@@ -1783,5 +1783,22 @@
       "Machine Learning": "AdamW Optimizer with Decoupled Weight Decay Mechanics (Day 321)",
       "Interview Questions": "What is the difference between Process and Thread context switching overhead? (Day 321)"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "day_num": 322,
+    "file_path": "output/2026-11-18.md",
+    "topics": {
+      "Python": "Memory Optimization with __slots__ (Day 322)",
+      "SQL": "Query Execution Plan Analysis using EXPLAIN ANALYZE (Day 322)",
+      "Cybersecurity": "AES-256-GCM Authenticated Encryption vs Cipher Block Chaining (CBC) (Day 322)",
+      "Data Analysis": "Automated Data Quality Auditing with Great Expectations (Day 322)",
+      "Linux": "Writing Systemd Service Units with Auto-Restart & Resource Limits (Day 322)",
+      "Git": "Binary Search Bug Hunting with `git bisect run` (Day 322)",
+      "Networking": "DNS Resolution Flow: Recursive Resolver vs Authoritative Nameservers (Day 322)",
+      "Docker": "Container Rootless Execution Mode & User Namespaces (Day 322)",
+      "Machine Learning": "Low-Rank Adaptation (LoRA) for Fine-Tuning LLMs (Day 322)",
+      "Interview Questions": "Explain database connection pooling and how to prevent connection exhaustion. (Day 322)"
+    }
   }
 ]
